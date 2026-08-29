@@ -2,9 +2,9 @@
 
 ## Sobre o projeto
 
-Esse projeto foi feito para o Checkpoint 4 da disciplina de Front-End Design Engineering. A ideia era praticar componentização em React e tipagem de props usando TypeScript.
-
-A aplicação simula uma página simples de turma, mostrando um cabeçalho com título e logo, uma lista de cards com os alunos (nome, RM e foto) e um rodapé. Cada parte da tela foi separada em um componente diferente (Cabecalho, Conteudo, Cards e Rodape), e as props de cada um foram tipadas no arquivo `types.ts`. A estilização foi feita usando CSS Module, um arquivo `.module.css` para cada componente, e o `index.css` só com as configurações gerais da página.
+Esse é o projeto do Checkpoint 4 da matéria de Front-End Design Engineering. O objetivo era treinar componentização no React e a tipagem de props com TypeScript.
+ 
+Fiz uma página simples de turma, com um cabeçalho (título + logo), uma lista de cards com os alunos (nome, RM e foto) e um rodapé no final. Separei cada parte em um componente (Cabecalho, Conteudo, Cards e Rodape) e coloquei a tipagem das props no arquivo `types.ts`. Pra estilização usei CSS Module, um `.module.css` pra cada componente, e deixei só o básico (fonte e fundo) no `index.css`.
 
 ## Integrante
 
