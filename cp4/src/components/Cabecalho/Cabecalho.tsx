@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import styles from './Cabecalho.module.css'
-import type { CabecalhoProps } from '../types'
+import type { CabecalhoProps } from '../../types'
 
 function Cabecalho({ titulo, logo }: CabecalhoProps) {
   useEffect(() => {

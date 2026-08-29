@@ -1,5 +1,5 @@
 import styles from './Rodape.module.css'
-import type { RodapeProps } from '../types'
+import type { RodapeProps } from '../../types'
 
 function Rodape({ texto }: RodapeProps) {
   return (

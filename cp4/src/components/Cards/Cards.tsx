@@ -1,5 +1,5 @@
 import styles from './Cards.module.css'
-import type { CardsProps } from '../types'
+import type { CardsProps } from '../../types'
 
 function Cards({ alunos }: CardsProps) {
   return (

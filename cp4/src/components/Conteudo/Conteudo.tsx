@@ -1,6 +1,6 @@
 import styles from './Conteudo.module.css'
 import Cards from '../Cards/Cards'
-import type { ConteudoProps } from '../types'
+import type { ConteudoProps } from '../../types'
 
 function Conteudo({ alunos }: ConteudoProps) {
   return (
