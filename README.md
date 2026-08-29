@@ -13,7 +13,7 @@ Fiz uma página simples de turma, com um cabeçalho (título + logo), uma lista 
 
 ## Link do projeto no Github
 
-https://github.com/GiovanniSouzaL
+https://github.com/GiovanniSouzaL/cp4-frontend
 
 ## Como rodar o projeto
 
