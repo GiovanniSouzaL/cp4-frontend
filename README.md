@@ -8,8 +8,6 @@ A aplicação simula uma página simples de turma, mostrando um cabeçalho com t
 
 ## Integrante
 
-<img src="./src/assets/giovanni.jpg" alt="Foto de perfil" width="120" />
-
 - **Nome:** Giovanni de Souza Lima
 - **RM:** 556536
 
