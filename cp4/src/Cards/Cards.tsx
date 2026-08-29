@@ -1,7 +1,6 @@
 import styles from './Cards.module.css'
 import type { CardsProps } from '../types'
 
-// aqui recebe a lista de alunos e monta um card pra cada um
 function Cards({ alunos }: CardsProps) {
   return (
     <div className={styles.grid}>
